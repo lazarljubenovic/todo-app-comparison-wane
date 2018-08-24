@@ -1,0 +1,8 @@
+# artifacts
+node_modules
+dist
+
+# ide
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml

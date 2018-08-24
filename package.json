@@ -1,0 +1,9 @@
+{
+  "name": "todo-app-comparison-wane",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wane": "^0.0.7"
+  }
+}
